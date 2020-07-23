@@ -3,7 +3,7 @@
 
 #### I'm a Software Engineer with over 2 years of experience studying Computer Science at uWaterloo. I'm currently at Coinbase (Data Platform), previously was at SeatGeek (Data) and PagerDuty (ML + Infra) and will be joining Deliverr this Fall.
 
-#### My Primary interests lie in the DS/Data/ML Platform space but I am interested in learning more about the backend/infra space as well.
+My Primary interests lie in the DS/Data/ML Platform space but I am also exploring and learning about the backend/infra space.
 
 #### Feel free to reach out to me for a chat or if you think I'd be a good fit for your team
 - Phone: 360-632-9082
