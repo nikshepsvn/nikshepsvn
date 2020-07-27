@@ -1,7 +1,8 @@
 
-### Hi there 👋 , I'm Nikshep.
+### Hi there, I'm Nik 👋
 
-#### I'm a Software Engineer with over 2 years of experience currently studying Computer Science at uWaterloo and working at Coinbase (Data Platform). Previously I was at SeatGeek (Data) and PagerDuty (ML + Infra). This fall I will be joining Deliverr as a SWE Intern.
+#### About Me
+- Software Engineer (Data) at [Coinbase](https://coinbase.com)
 
 My Primary interests lie in the DS/Data/ML Platform space but I am also exploring and learning about the backend/infra space.
 
