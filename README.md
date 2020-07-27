@@ -2,7 +2,7 @@
 ### Hi there, I'm Nik 👋
 
 #### About Me
-- Software Engineer (Data) at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> Coinbase](https://coinbase.com)
+- Software Engineer (Data) at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com)
 
 My Primary interests lie in the DS/Data/ML Platform space but I am also exploring and learning about the backend/infra space.
 
