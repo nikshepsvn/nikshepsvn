@@ -13,4 +13,6 @@ Feel free to reach out to me for a chat or if you think I'd be a good fit for yo
 - Phone: 360-632-9082
 - E-mail: nikshepsvn@gmail.com
 
+[![Nikshep's github stats](https://github-readme-stats.vercel.app/api?username=nikshepsvn)](https://github.com/nikshepsvn/github-readme-stats)
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikshepsvn.nikshepsvn)
