@@ -1,5 +1,6 @@
 
 ### Hi there, I'm Nik 👋
+### I'm currently building [ThumbGen](https://thumbgen.ai)
 
 #### About Me
 - Senior Software Engineer @ [<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="14px" /> **Instacart**](https://instacart.com)
