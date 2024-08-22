@@ -16,7 +16,7 @@ Funfact: I actually started building RealmPlay before Llama1 and was about to ca
 Some other projects I've explored in the space include:
 1. SoulBazaar - an LLM fine-tune community and marketplace powered by [LoRAX](https://github.com/predibase/lorax)
 2. ThumbGen - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
-3. Misc. 
+3. Misc hacking (blog writer agent, video understanding via frame-extraction etc.) 
 
 While my professional background is largely in the Data / Infrastructure / FullStack space, my personal experiences, along with my consistent interest (following [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (ssm + transformers + diffusion), fine-tuning, syntethic data generation, vector databases / RAG, prompt engineering, agentic frameworks, structured output, generative UI and other subject matter. 
 
