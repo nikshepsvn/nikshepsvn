@@ -9,7 +9,7 @@
 
 My passion lies in building incredible experiences that unlock human creativity by creating new paradigms of interaction with generative AI. 
 
-I have been closely following the space since it's inception (RealmPlay, my first "company" was built on a fine-tuned version of Llama2, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama) on vast.ai, this was before vLLM and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context).
+I have been closely following the space since it's inception (RealmPlay, my first "company" was built on a fine-tuned version of Llama1, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama) on vast.ai, this was before vLLM and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context).
 
 These experiences, along with my interest (following /r/LocalLLama, /r/StableDiffusion and X religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (transformers + diffusion), fine-tuning, vector databases / RAG, prompt engineering, structured output, generative UI and other subject matter. 
 
