@@ -9,7 +9,6 @@
 
 My Primary interests currently lie in building incredible software to push the boundaries of human creativity by unlocking a new paradigm of interaction powered by generative AI. I have an extremely strong foundation in the AI engineering space, with a deep understanding of multimodal models (transformers, diffusion etc), vector databases / RAG, prompt engineering, generative UI and other subject matter in the same area.
 
-Feel free to reach out to me for a chat or if you think I'd be a good fit for your team
-- E-mail: nikshepsvn@gmail.com
+Feel free to reach out to me for a chat at either nikshep@atmanventures.co or nikshep@dreamloom.ai
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikshepsvn.nikshepsvn)
