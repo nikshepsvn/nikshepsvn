@@ -9,6 +9,6 @@
 
 My passion lies in building incredible experiences that unlock human creativity by taking advantage of the latest in generative AI. I have been closely following the space from it's inception and have an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (transformers + diffusion), fine-tuning, vector databases / RAG, prompt engineering, structured output, generative UI and other subject matter. 
 
-I am consistently up to date with the cutting edge advancements in the field ( or atleast I try to be >:) ) and would love to chat if you want to have a conversation about related topics -- feel free to reach out for a chat at either nikshep@atmanventures.co or nikshep@dreamloom.ai
+I love staying up to date with the cutting edge developments in the space and would love to chat about related topics -- feel free to reach out for a chat at either nikshep@atmanventures.co or nikshep@dreamloom.ai
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikshepsvn.nikshepsvn)
