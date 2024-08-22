@@ -16,7 +16,7 @@ Some other projects I've explored in the space include:
 2. ThumbGen - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
 3. Misc. 
 
-These experiences, along with my consistent interest (following [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (transformers + diffusion), fine-tuning, vector databases / RAG, prompt engineering, agentic frameworks, structured output, generative UI and other subject matter. 
+These experiences, along with my consistent interest (following [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (ssm + transformers + diffusion), fine-tuning, syntethic data generation, vector databases / RAG, prompt engineering, agentic frameworks, structured output, generative UI and other subject matter. 
 
 I love staying up to date with the cutting edge developments in the space and would love to chat about related topics -- feel free to reach out for a chat at either nikshep@atmanventures.co or nikshep@dreamloom.ai
 
