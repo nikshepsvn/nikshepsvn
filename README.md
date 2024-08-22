@@ -9,7 +9,12 @@
 
 My passion lies in building incredible experiences that unlock human creativity by creating new paradigms of interaction with generative AI. 
 
-I have been closely following the space since it's inception ([RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my first "company" was built on a fine-tuned version of Llama1, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference on consumer GPUs on vast.ai, this was well before vLLM and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context).
+I have been closely following the space since it's inception ([RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my first "company" was built on a fine-tuned version of Llama1, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference using consumer GPUs on [vast.ai](https://vast.ai/), this was well before [vLLM](https://github.com/vllm-project/vllm) and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context).
+
+Some other projects I've explored in the space include:
+1. SoulBazaar - an LLM fine-tune community and marketplace powered by [LoRAX](https://github.com/predibase/lorax)
+2. ThumbGen - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
+3. Misc. 
 
 These experiences, along with my consistent interest (following [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (transformers + diffusion), fine-tuning, vector databases / RAG, prompt engineering, agentic frameworks, structured output, generative UI and other subject matter. 
 
