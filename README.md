@@ -7,7 +7,7 @@
 - Previously SWE at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) etc.
 - CS at [<img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="14px" /> **University of Waterloo**](https://uwaterloo.ca)
 
-My passion lies in building incredible experiences that unlock human creativity by creating new paradigms of interaction with generative AI. 
+My passion lies in building incredible experiences that unlock human creativity by designing new paradigms of interaction with generative AI. 
 
 I have been closely following the space since it's inception ([RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my first "company" was built on a fine-tuned version of Llama1, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference using consumer GPUs on [vast.ai](https://vast.ai/), this was well before [vLLM](https://github.com/vllm-project/vllm) and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context).
 
