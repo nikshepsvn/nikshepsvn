@@ -13,10 +13,13 @@ I have been closely following the AI/LLM/Diffusion space since it's inception ([
 
 Funfact: I actually started building RealmPlay before Llama1 and was about to call it quits since all the models prior to it (GPT-J, Pythia, GPT-NeoX-20B etc.) lacked coherency -- just about as I was about to call it quits, the OSS LLM lords at Meta saved the day with the Llama release!
 
-Some other projects I've explored in the space include:
-1. SoulBazaar - an LLM fine-tune community and marketplace powered by [LoRAX](https://github.com/predibase/lorax)
-2. ThumbGen - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
-3. Misc hacking (blog writer agent, video understanding via frame-extraction etc.) 
+Some other projects I've explored in the space, which gave me significant learnings, include:
+- SoulBazaar - an LLM fine-tune community and marketplace powered by [LoRAX](https://github.com/predibase/lorax)
+    - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
+- ThumbGen - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
+    - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
+- Misc hacking (blog writer agent, video understanding via frame-extraction etc.)
+    - Agentic behavior, embedding, RAG, multimodality, etc.
 
 While my professional background is largely in the Data / Infrastructure / FullStack space, my personal experiences, along with my consistent interest (following [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) religiously) have led to me building an extremely strong foundation in AI engineering -- with a deep understanding of multimodal models (ssm + transformers + diffusion), fine-tuning, syntethic data generation, vector databases / RAG, prompt engineering, agentic frameworks, structured output, generative UI and other subject matter. 
 
