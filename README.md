@@ -24,7 +24,7 @@ I have a long history building & learning things, some notable projects include:
     - crypto fundamentals, PoW/PoS, smart contract development, marketing/branding etc.
 -  **Multiple Hackathons (2017, 2018)**: won prize for Caffiene (headband based solution to prevent car accidents), while attending and building at 10+ events
     - built and learnt core technologies, from PHP, app development to cloud and hardware
--** AnimeLootStore (early 2019)**: dropshipped anime merch, ran ads, did 100+ orders
+- **AnimeLootStore (early 2019)**: dropshipped anime merch, ran ads, did 100+ orders
     - design/positioning/branding, marketing via facebook/google Ads, finances, customer experience etc. 
 -** FuzzPandaFilms (late 2019)**: YT channel automated w/ reddit content, reached 10M views, 16K subscribers
     - data parsing + processing, programatic video generation, youtube optimization etc.
