@@ -16,7 +16,7 @@ Some other recent projects I've explored in the space, which gave me significant
     - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
 - **ThumbGen** - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
--** Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
+- **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
     - Agentic behavior, embedding, RAG, multimodality, etc.
 
 I have a long history building & learning things, some notable projects include:
