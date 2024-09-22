@@ -20,9 +20,9 @@ Some other recent projects I've explored in the space, which gave me significant
     - Agentic behavior, embedding, RAG, multimodality, etc.
 
 I have a long history building & learning things, some notable projects include:
-- **Crypto Trading & Mining (2016)**: mined ETH at $35/token, mod for early FB group w/ 100K+ members, dev for token w/ $50M+ peak marketcap
+- **Crypto Trading & Mining (2016)**: mined ETH at $35/token, dev for token w/ $50M+ peak marketcap
     - crypto fundamentals, PoW/PoS, smart contract development, marketing/branding etc.
--  **Multiple Hackathons (2017, 2018)**: won prize for Caffiene (headband solution to prevent car accidents), while building at 10+ events
+-  **Multiple Hackathons (2017, 2018)**: won prize for headband solution to prevent car accidents, while building at 10+ events
     - built various products and learnt about different core areas, from PHP, app development to cloud and hardware
 - **AnimeLootStore (early 2019)**: dropshipped anime merch, ran ads, did 100+ orders
     - design/positioning/branding, marketing via facebook/google Ads, finances, customer experience etc. 
