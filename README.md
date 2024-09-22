@@ -28,7 +28,7 @@ I have a long history building & learning things, some notable projects include:
     - design/positioning/branding, marketing via facebook/google Ads, finances, customer experience etc. 
 - **FuzzPandaFilms (late 2019)**: YT channel automated w/ reddit content, reached 10M views, 16K subscribers
     - data parsing + processing, programatic video generation, youtube optimization etc.
-- **Automated Instagram Pages (2020)**: developed bots to scrape internet for viral content and repost on instagram, amased 5000+ followers
+- **Automated Instagram Pages (2020)**: bot to scrape for viral content and repost on instagram, reaching 5000+ followers
     -  web scraping, data processing / management, APIs etc.
 
 While my professional background is largely with Data / Infrastructure / Fullstack engineering, my personal experiences and interests in the AI realm, via building products and following forums like [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) have led to me building an extremely strong and broad foundation in AI related engineering -- with a solid understanding of multimodal models (ssm + transformers + diffusion), fine-tuning (full/LoRA/qLoRA), syntethic data generation pipelines, vector databases / RAG, prompt engineering, agentic behavior/frameworks, structured output, generative UI and other subject matter. 
