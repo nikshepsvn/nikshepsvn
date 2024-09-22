@@ -26,7 +26,7 @@ I have a long history building & learning things, some notable projects include:
     - built and learnt core technologies, from PHP, app development to cloud and hardware
 - **AnimeLootStore (early 2019)**: dropshipped anime merch, ran ads, did 100+ orders
     - design/positioning/branding, marketing via facebook/google Ads, finances, customer experience etc. 
--** FuzzPandaFilms (late 2019)**: YT channel automated w/ reddit content, reached 10M views, 16K subscribers
+- **FuzzPandaFilms (late 2019)**: YT channel automated w/ reddit content, reached 10M views, 16K subscribers
     - data parsing + processing, programatic video generation, youtube optimization etc.
 - **Automated Instagram Pages (2020)**: developed bots to scrape internet for viral content and repost on instagram, amased 5000+ followers
     -  web scraping, data processing / management, APIs etc.
