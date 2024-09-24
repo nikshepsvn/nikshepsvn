@@ -4,6 +4,8 @@
 - Previously SWE at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) etc.
 - CS at [<img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="14px" /> **University of Waterloo**](https://uwaterloo.ca)
 
+Details: https://linkedin.com/in/nikshepsvn
+
 ### About Me
 My goal is to build technology thay accelerates human progress, allowing for a world where people can earn with creativity instead of labour. Currently, I'm heads down building an innovative, creator-focused platform that is the first step in my journey.
 
