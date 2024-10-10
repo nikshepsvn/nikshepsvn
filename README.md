@@ -14,7 +14,7 @@ I have been closely following the AI/LLM/Diffusion space since it's inception. [
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
 - **SoulBazaar** - an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
     - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
-- **ThumbGen** - a YouTube Thumbnail Design Copilot (that launched and did $500+ in revenue w/ 0 marketing) using tool-calling & diffusion models
+- **ThumbGen** - a YouTube Thumbnail Design Copilot (launched, got 10+ paying customers before ramping it down to focus)
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
 - **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
     - Agentic behavior, embedding, RAG, multimodality, etc.
