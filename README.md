@@ -12,9 +12,9 @@ My goal is to build technology thay accelerates human progress, allowing for a w
 I have been closely following the AI/LLM/Diffusion space since it's inception. [RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my project-turned-company that was acquired, was built on a fine-tuned, block-merged version of Llama, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference using consumer GPUs. I used [vast.ai](https://vast.ai/), renting multiple 3090's to serve production traffic, using a Digital Ocean Droplet and nginx as a multi-region load balancer -- this was well before projects like [vLLM](https://github.com/vllm-project/vllm) and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context. 
 
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
-- **SoulBazaar** - an LLM fine-tune community and marketplace powered by [LoRAX](https://github.com/predibase/lorax)
+- **SoulBazaar** - an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
     - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
-- **ThumbGen** - a YouTube Thumbnail Design Copilot using tool-calling & diffusion models
+- **ThumbGen** - a YouTube Thumbnail Design Copilot (that launched and did $500+ in revenue w/ 0 marketing) using tool-calling & diffusion models
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
 - **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
     - Agentic behavior, embedding, RAG, multimodality, etc.
