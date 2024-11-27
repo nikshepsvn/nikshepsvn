@@ -1,7 +1,7 @@
 ## Professional Overview
 - Building 🪄 [DreamLoom](https://dreamloom.ai)
 - ex-Senior Software Engineer @ [<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="14px" /> **Instacart**](https://instacart.com)
-- Previously SWE at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) etc.
+- Previously interned at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) and 2 other companies.
 - CS at [<img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="14px" /> **University of Waterloo**](https://uwaterloo.ca)
 
 Details: https://linkedin.com/in/nikshepsvn
@@ -19,8 +19,8 @@ Some other recent projects I've explored in the space, which gave me significant
 - **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
     - Agentic behavior, embedding, RAG, multimodality, etc.
 
-I have a long history building & learning things, some notable projects include:
-- **Crypto Trading & Mining (2016)**: mined ETH at $35/token, dev for token w/ $50M+ peak marketcap
+I have a long history building & learning things outside my professional work, some notable projects include:
+- **Crypto Development & Mining (2016)**: mined ETH at $35/token, dev for token w/ $50M+ peak marketcap
     - crypto fundamentals, PoW/PoS, smart contract development, marketing/branding etc.
 -  **Multiple Hackathons (2017, 2018)**: won prize for headband solution to prevent car accidents, while building at 10+ events
     - built various products and learnt about different core areas, from PHP, app development to cloud and hardware
