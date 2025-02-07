@@ -16,7 +16,7 @@ Most recently (Jan 2025), I sold SoulBazaar -- a launchpad for AI social agents 
 
 
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
-- **SoulBazaar (v1) ** - the initial version of SoulBazaar was an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
+- **SoulBazaar (v1)** - the initial version of SoulBazaar was an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
     - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
 - **ThumbGen** - a YouTube Thumbnail Design Copilot (launched, got 10+ paying customers before ramping it down to focus)
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
