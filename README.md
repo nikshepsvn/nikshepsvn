@@ -11,8 +11,11 @@ My goal is to build technology that accelerates human progress, allowing for a w
 
 I have been closely following the AI/LLM/Diffusion space since it's inception. [RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my project-turned-company that was acquired, was built on a fine-tuned, block-merged version of Llama, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference using consumer GPUs. I used [vast.ai](https://vast.ai/), renting multiple 3090's to serve production traffic, using a Digital Ocean Droplet and nginx as a multi-region load balancer -- this was well before projects like [vLLM](https://github.com/vllm-project/vllm) and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context. 
 
+Most recently (Jan 2025), I sold SoulBazaar -- a launchpad for AI social agents on web3. I built the entire platform from scratch in roughly 1W. After development, I realized my vision for the platform would take a whole lot of time (autonomous social agents that evolve from social interaction, using the internet and engagement as a giant RL playground to build personality, lore, backstory etc.) and sold the platform to a third-party. They web3 enabled the platform and pivoted it into social media marketing agent, the token on launch ($SOULS) reached a $5M+ marketcap.
+
+
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
-- **SoulBazaar** - an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
+- **SoulBazaar (v1) ** - the initial version of SoulBazaar was an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
     - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
 - **ThumbGen** - a YouTube Thumbnail Design Copilot (launched, got 10+ paying customers before ramping it down to focus)
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
@@ -30,6 +33,7 @@ I have a long history building & learning things outside my professional work, s
     - data parsing + processing, programatic video generation, youtube optimization etc.
 - **Automated Instagram Pages (2020)**: bot to scrape for viral content and repost on instagram, reaching 5000+ followers
     -  web scraping, data processing / management, APIs etc.
+ - **Much much more** -- bunch of OSS libraries, working on decentralized casinos, and a ton of experimentation
 
 While my professional background is largely with Data / Infrastructure / Fullstack engineering, my personal experiences and interests in the AI realm, via building products and following forums like [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) have led to me building an extremely strong and broad foundation in applied AI engineering -- with a solid understanding of model architectures & fundamentals (ssm + transformers + diffusion etc.), fine-tuning (full/LoRA/qLoRA), syntethic data generation pipelines, vector databases / RAG, prompt engineering, agentic behavior/frameworks, structured output, generative UI, evals and other subject matter. 
 
