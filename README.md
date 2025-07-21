@@ -1,5 +1,5 @@
 ## Professional Overview
-- Building 🪄 [DreamLoom](https://dreamloom.ai) & Contributing to [MC-Bench](https://github.com/mc-bench)
+- Building 🪄 [SCULPT](https://sculpt.fun) & [CLIP](https://clip.fun)
 - Previously sold 2 startups, [RealmPlay](https://realmplay.ai) (Character AI but with Llama running on consumer grade GPUs) and [SoulBazaar](https://soulbazaar.ai) (Autonomous social agents for web3)
 - ex-Senior Software Engineer @ [<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="14px" /> **Instacart**](https://instacart.com)
 - Previously interned at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) and 2 other companies.
@@ -16,8 +16,12 @@ Most recently (Jan 2025), I sold SoulBazaar -- a launchpad for AI social agents 
 
 
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
+- **SniffChain** - solana token data terminal + launchpad aggregator + X defi agent + risk pipeline & more
+    - multi-agent swarms, solana, tokenomics, marketing, content, lots of crypto
+- **DreamLoom** - near real time interactive video platform (with narration, video, audio & more)
+    - content production agents, prompt engineering, nextjs, design, AI-native interfaces
 - **SoulBazaar (v1)** - the initial version of SoulBazaar was an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
-    - LoRAs, syntethic data generation, fine-tuning, SGMV kernel, tool-calling etc.
+    - LoRAs, synthetic data generation, fine-tuning, SGMV kernel, tool-calling etc.
 - **ThumbGen** - a YouTube Thumbnail Design Copilot (launched, got 10+ paying customers before ramping it down to focus)
     - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
 - **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
