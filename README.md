@@ -1,5 +1,5 @@
 ## Professional Overview
-- Building 🪄 [SCULPT](https://sculpt.fun) & [CLIP](https://clip.fun)
+- Building 🪄 [SCULPT](https://sculpt.fun)
 - Previously sold 2 startups, [RealmPlay](https://realmplay.ai) (Character AI but with Llama running on consumer grade GPUs) and [SoulBazaar](https://soulbazaar.ai) (Autonomous social agents for web3)
 - ex-Senior Software Engineer @ [<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="14px" /> **Instacart**](https://instacart.com)
 - Previously interned at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) and 2 other companies.
