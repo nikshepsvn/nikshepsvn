@@ -15,10 +15,11 @@ I have been closely following the AI/LLM/Diffusion space since it's inception. [
 
 I am also deeply familiar and comfortable with crypto, I've been a part of multiple "metas", starting from 2017, all the way to current day. While I might not have as much deep technical context with crypto as I do with AI, I have a strong intuition and understanding of the space, enough to let me approach and tackle any valid problem.
 
-Recently (Jan 2025), I sold SoulBazaar -- a launchpad for AI social agents on web3. I built the entire platform from scratch in roughly 1W. After development, I realized my vision for the platform would take a whole lot of time (autonomous social agents that evolve from social interaction, using the internet and engagement as a giant RL playground to build personality, lore, backstory etc.) and sold the platform to a third-party. They web3 enabled the platform and pivoted it into social media marketing agent, the token on launch ($SOULS) reached a $5M+ marketcap.
-
 
 Some other recent projects I've explored in the space, which gave me significant learnings, include:
+- **Tremor** - Realtime Prediction Market Monitor (https://github.com/sculptdotfun/tremor)
+- **VibeRank** - Claude code leaderboard (viberank.app)
+- **SoulBazaar (v2)**  - launchpad for social media agents for tokens to build community
 - **SniffChain** - solana token data terminal + launchpad aggregator + X defi agent + risk pipeline & more
     - multi-agent swarms, solana, tokenomics, marketing, content, lots of crypto
 - **DreamLoom** - near real time interactive video platform (with narration, video, audio & more)
