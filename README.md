@@ -1,6 +1,6 @@
 ## professional overview
 
-building [HumanPlane](https://humanplane.com) — prediction market trading terminal. longer term goal is building reality infrastructure. thoughts and projects at [Sculpt](https://sculpt.fun).
+building [HumanPlane](https://humanplane.com) — prediction market trading terminal. longer term goal is building reality infrastructure. thoughts and projects at [SCULPT](https://sculpt.fun).
 
 sold two startups: [RealmPlay](https://realmplay.ai) (character AI but running fine-tuned llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3).
 
@@ -17,7 +17,5 @@ more recently been getting into ML/RL. built an RL agent (LACUNA) that trades po
 same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
 
 recent projects: prediction market monitors, claude code leaderboards, multi-agent swarms on solana, real-time interactive video, LoRA marketplaces, youtube thumbnail copilot that got paying customers. earlier: hackathon wins, 10M-view automated youtube channel, lots of other side quests.
-
-infra and fullstack by trade, applied AI and crypto is where i live now.
 
 nikshepsvn@gmail.com
