@@ -1,51 +1,19 @@
 ## Professional Overview
-- Building [HumanPlane](https://humanplane.com)
-- Projects [Sculpt](https://sculpt.fun)
-- Previously sold 2 project-scoped startups, [RealmPlay](https://realmplay.ai) (Character AI but with Llama running on consumer grade GPUs) and [SoulBazaar](https://soulbazaar.ai) (Autonomous social agents for web3)
-- ex-Senior Software Engineer @ [<img src="https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png" width="14px" /> **Instacart**](https://instacart.com)
-- Previously interned at [<img src="https://startupstash.com/wp-content/uploads/2020/04/coinbase-logo.jpg" width="14px" /> **Coinbase**](https://coinbase.com), [<img src="https://seatgeek.com/images/sg-Spotlight.png" width="14px" /> **SeatGeek**](https://seatgeek.com), [<img src="https://avatars3.githubusercontent.com/u/766800?s=280&v=4" width="14px" /> **PagerDuty**](https://pagerduty.com) and 2 other companies.
-- CS at [<img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="14px" /> **University of Waterloo**](https://uwaterloo.ca)
 
-Details: https://linkedin.com/in/nikshepsvn
+Building [HumanPlane](https://humanplane.com)—a prediction market trading terminal, with a longer-term goal of building reality infrastructure. Thoughts and projects at [Sculpt](https://sculpt.fun).
+
+Sold two startups: [RealmPlay](https://realmplay.ai) (Character AI-style product running fine-tuned Llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3). Senior SWE at Instacart. Interned at Coinbase, SeatGeek, PagerDuty, and a couple others. CS at Waterloo.
 
 ### About Me
-My goal is singular: build interesting technology that progresses humanity, compound my knowledge and wealth by playing increasingly larger and higher-stake games over time.
 
-I have been closely following the AI/LLM/Diffusion space since it's inception. [RealmPlay](https://www.realmplay.ai/signin?redirect_url=https%3A%2F%2Fwww.realmplay.ai%2F), my project-turned-company that was acquired, was built on a fine-tuned, block-merged version of Llama, productionized by building an API on top of [exllama](https://github.com/turboderp/exllama), a framework meant for fast inference using consumer GPUs. I used [vast.ai](https://vast.ai/), renting multiple 3090's to serve production traffic, using a Digital Ocean Droplet and nginx as a multi-region load balancer -- this was well before projects like [vLLM](https://github.com/vllm-project/vllm) and other serving frameworks existed. I scaled the context from 4K to 16K with [SuperHOT](https://kaiokendev.github.io/til) the day kaiokendev had the breakthrough of discovering RoPE scaling, which is now commonly used to extend context.
+I work at the intersection of applied AI and crypto. The goal is to compound—learn by building, build to learn more, repeat at higher stakes.
 
-I am also deeply familiar and comfortable with crypto, I've been a part of multiple "metas", starting from 2017, all the way to current day. While I might not have as much deep technical context with crypto as I do with AI, I have a strong intuition and understanding of the space, enough to let me approach and tackle any valid problem.
+Been in AI since before the frameworks existed. For RealmPlay, I productionized a fine-tuned Llama on rented 3090s via vast.ai, built a serving API on exllama, and used a DO droplet with nginx as a multi-region load balancer—before vLLM or any proper serving infra existed. Extended context from 4K to 16K with SuperHOT the day kaiokendev posted about RoPE scaling. When most of this was still forum posts and arxiv papers, I was shipping.
 
+Same with crypto. Mining ETH at $35 in 2016, did dev work for a token that hit $50M+ marketcap, been building through every cycle since.
 
-Some other recent projects I've explored in the space, which gave me significant learnings, include:
-- **Tremor** - Realtime Prediction Market Monitor (https://github.com/sculptdotfun/tremor)
-- **VibeRank** - Claude code leaderboard (viberank.app)
-- **SoulBazaar (v2)**  - launchpad for social media agents for tokens to build community
-- **SniffChain** - solana token data terminal + launchpad aggregator + X defi agent + risk pipeline & more
-    - multi-agent swarms, solana, tokenomics, marketing, content, lots of crypto
-- **DreamLoom** - near real time interactive video platform (with narration, video, audio & more)
-    - content production agents, prompt engineering, nextjs, design, AI-native interfaces
-- **SoulBazaar (v1)** - the initial version of SoulBazaar was an LLM fine-tune community and marketplace prototype powered by [LoRAX](https://github.com/predibase/lorax)
-    - LoRAs, synthetic data generation, fine-tuning, SGMV kernel, tool-calling etc.
-- **ThumbGen** - a YouTube Thumbnail Design Copilot (launched, got 10+ paying customers before ramping it down to focus)
-    - Diffusion, DiT architecture, generative UI, ComfyUI, IP-Adapter, structured output, prompting techniques etc.
-- **Misc hacking** (blog writer agent, video understanding via frame-extraction etc.)
-    - Agentic behavior, embedding, RAG, multimodality, etc.
+Recent projects: prediction market monitors, Claude code leaderboards, multi-agent swarms on Solana, real-time interactive video, LoRA marketplaces, a YouTube thumbnail copilot that got paying customers. Earlier: hackathon wins, a 10M-view automated YouTube channel, and too many side quests to list.
 
-I have a long history building & learning things outside my professional work, some notable projects include:
-- **Crypto Development & Mining (2016)**: mined ETH at $35/token, dev for token w/ $50M+ peak marketcap
-    - crypto fundamentals, PoW/PoS, smart contract development, marketing/branding etc.
--  **Multiple Hackathons (2017, 2018)**: won prize for headband solution to prevent car accidents, while building at 10+ events
-    - built various products and learnt about different core areas, from PHP, app development to cloud and hardware
-- **AnimeLootStore (early 2019)**: dropshipped anime merch, ran ads, did 100+ orders
-    - design/positioning/branding, marketing via facebook/google Ads, finances, customer experience etc. 
-- **FuzzPandaFilms (late 2019)**: YT channel automated w/ reddit content, reached 10M views, 16K subscribers
-    - data parsing + processing, programatic video generation, youtube optimization etc.
-- **Automated Instagram Pages (2020)**: bot to scrape for viral content and repost on instagram, reaching 5000+ followers
-    -  web scraping, data processing / management, APIs etc.
- - **Much much more** -- bunch of OSS libraries, working on decentralized casinos, and a ton of experimentation
+Infra and fullstack by trade, but applied AI and crypto is where I live now.
 
-While my professional background is largely with Data / Infrastructure / Fullstack engineering, my personal experiences and interests in the AI realm, via building products and following forums like [/r/LocalLLama](https://www.reddit.com/r/LocalLLaMA/), [/r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) and [X](https://x.com/home) have led to me building an extremely strong and broad foundation in applied AI engineering -- with a solid understanding of model architectures & fundamentals (ssm + transformers + diffusion etc.), fine-tuning (full/LoRA/qLoRA), syntethic data generation pipelines, vector databases / RAG, prompt engineering, agentic behavior/frameworks, structured output, generative UI, evals and other subject matter. 
-
-I stay up to date with the bleeding-edge developments in the space and would love to chat about related topics -- feel free to reach out for a chat at either nikshepsvn@gmail.com or nikshep@dreamloom.ai
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikshepsvn.nikshepsvn)
+nikshepsvn@gmail.com
