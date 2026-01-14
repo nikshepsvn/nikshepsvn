@@ -12,7 +12,7 @@ i work at the intersection of applied AI and crypto. goal is to compound — kee
 
 been in AI for a while. for RealmPlay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet with nginx as a load balancer. this was before vLLM. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered.
 
-getting deeper into ML/RL now. built LACUNA — RL agent that trades polymarket 15-min crypto markets using binance order flow. PPO, temporal encoders, sparse rewards. learning the fundamentals hands-on.
+more recently been getting into ML/RL. built an RL agent (LACUNA) that trades polymarket 15-min crypto markets using binance order flow.
 
 same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
 
