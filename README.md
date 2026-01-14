@@ -2,7 +2,7 @@
 
 Building [HumanPlane](https://humanplane.com)—a prediction market trading terminal, with a longer-term goal of building reality infrastructure. Thoughts and projects at [Sculpt](https://sculpt.fun).
 
-Sold two startups: [RealmPlay](https://realmplay.ai) (Character AI-style product running fine-tuned Llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3). Senior SWE at Instacart. Interned at Coinbase, SeatGeek, PagerDuty, and a couple others. CS at Waterloo.
+Sold two project-scoped 'startups': [RealmPlay](https://realmplay.ai) (Character AI-style product running fine-tuned Llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3). Senior SWE at Instacart. Interned at Coinbase, SeatGeek, PagerDuty, and a couple others. CS at Waterloo.
 
 ### About Me
 
