@@ -1,21 +1,23 @@
-## Professional Overview
+## professional overview
 
-Building [HumanPlane](https://humanplane.com)—a prediction market trading terminal, with a longer-term goal of building reality infrastructure. Thoughts and projects at [Sculpt](https://sculpt.fun).
+building [HumanPlane](https://humanplane.com) — prediction market trading terminal. longer term goal is building reality infrastructure. thoughts and projects at [Sculpt](https://sculpt.fun).
 
-Sold two startups: [RealmPlay](https://realmplay.ai) (Character AI-style product running fine-tuned Llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3).
+sold two startups: [RealmPlay](https://realmplay.ai) (character AI but running fine-tuned llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3).
 
-Spent 3+ years at Instacart, ending as Senior SWE and tech lead for Enterprise Ads. Scaled their ad measurement and experimentation platforms, led 10+ engineers across teams, picked up a few awards along the way. Before that, interned at Coinbase (data platform), SeatGeek (data infra), PagerDuty (ML platform + core infra), and Deliverr (fulfillment network). CS at Waterloo.
+3+ years at Instacart, ended as senior SWE / tech lead for enterprise ads. scaled ad measurement and experimentation platforms, led 10+ engineers. before that interned at Coinbase (data platform), SeatGeek (data infra), PagerDuty (ML platform), Deliverr (fulfillment). CS at Waterloo.
 
-### About Me
+### about me
 
-I work at the intersection of applied AI and crypto. The goal is to compound—learn by building, build to learn more, repeat at higher stakes.
+i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
 
-Been in AI for a while. For RealmPlay, I productionized a fine-tuned Llama on rented 3090s via vast.ai, built a serving API on exllama, and used a DO droplet with nginx as a load balancer. This was before vLLM existed. Extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered.
+been in AI for a while. for RealmPlay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet with nginx as a load balancer. this was before vLLM. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered.
 
-Same with crypto—mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
+getting deeper into ML/RL now. built LACUNA — RL agent that trades polymarket 15-min crypto markets using binance order flow. PPO, temporal encoders, sparse rewards. learning the fundamentals hands-on.
 
-Recent projects: prediction market monitors, Claude code leaderboards, multi-agent swarms on Solana, real-time interactive video, LoRA marketplaces, a YouTube thumbnail copilot that got paying customers. Earlier: hackathon wins, a 10M-view automated YouTube channel, and a lot of other side quests.
+same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
 
-Infra and fullstack by trade, but applied AI and crypto is where I live now.
+recent projects: prediction market monitors, claude code leaderboards, multi-agent swarms on solana, real-time interactive video, LoRA marketplaces, youtube thumbnail copilot that got paying customers. earlier: hackathon wins, 10M-view automated youtube channel, lots of other side quests.
+
+infra and fullstack by trade, applied AI and crypto is where i live now.
 
 nikshepsvn@gmail.com
