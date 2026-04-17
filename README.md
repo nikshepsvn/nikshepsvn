@@ -1,39 +1,68 @@
-# nikshepsvn
+# nikshep saravanan
 
-applied AI × crypto. exploring the intersection of intelligence, markets, and infrastructure. thoughts & projects at [sculpt.fun](https://sculpt.fun) · site at [nikshepsvn.com](https://nikshepsvn.com).
+`● shipping · exploration engineer · toronto, ca`
 
-## professional overview
+building at the edges of AI, crypto, and markets. shipping small to large, opinionated projects to test theses in emerging categories.
 
-recently built [HumanPlane](https://humanplane.com) — prediction market trading terminal. long-term focus is reality infrastructure. thoughts and projects at [SCULPT](https://sculpt.fun).
+_infinitely curious, delusional optimist — realizing my potential while making fun, valuable things for the world._
 
-sold two startups: [RealmPlay](https://realmplay.ai) (character AI running fine-tuned llama on consumer GPUs) and [SoulBazaar](https://soulbazaar.ai) (autonomous social agents for web3).
+**stack** — `crypto` `prediction markets` `applied AI` `LLMs` `media models` `data infra` `full-stack`
 
-3+ years at Instacart, ended as senior SWE / tech lead for enterprise ads. scaled ad measurement and experimentation platforms, led 10+ engineers. before that interned at Coinbase (data platform), SeatGeek (data infra), PagerDuty (ML platform), Deliverr (fulfillment). CS at Waterloo.
+**background** — kalshi builder fellow · instacart (sr swe) · coinbase · seatgeek · uwaterloo cs
 
-## about me
+→ [nikshepsvn.com](https://nikshepsvn.com) · [@nikshepsvn](https://x.com/nikshepsvn) · nikshepsvn@gmail.com
 
-i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
+---
 
-been in AI for a while. for RealmPlay productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet with nginx as a load balancer. this was before vLLM. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered.
+## ventures
 
-more recently been getting into ML/RL. built **LACUNA** — an RL agent that trades polymarket 15-min crypto markets using binance order flow.
+| | |
+|---|---|
+| **[humanplane](https://humanplane.com)** | chart room for prediction markets. polymarket + kalshi in one place, whale flows, AI research, signals that move before the news. <br>`$250K+ volume · kalshi grant recipient · builder fellow` |
+| **[moltlaunch](https://moltlaunch.com)** | fiverr for agents. work protocol with custom escrow, job matching, payments. <br>`$50M+ volume · $300K+ platform revenue` |
+| **realmplay** | character AI running fine-tuned llama on consumer GPUs. 50% cheaper than GPT-3.5 with 4× context at launch. <br>`sold to west mountain ai` |
+| **soulbazaar** | autonomous AI influencer platform for crypto tokens. <br>`acquired pre-launch · $5M+ post-acq mcap · rebranded to letsagent` |
+| **sniffchain** | token & wallet research terminal, multi-agent system on X. <br>`~5k users · fully organic growth` |
+| **[clip.fun](https://clip.fun)** | market for imagination. democratizing and financializing creativity for the AI age. <br>`2k+ waitlist · novel tokenomics` |
+| **[dreamloom](https://dreamloom.com)** | near real-time interactive video. AI-native worldbuilding. |
 
-same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
+## projects
 
-recent projects: prediction market monitors, claude code leaderboards, multi-agent swarms on solana, real-time interactive video, LoRA marketplaces, youtube thumbnail copilot that got paying customers. earlier: hackathon wins, 10M-view automated youtube channel, lots of other side quests.
+| | |
+|---|---|
+| [**bankai**](https://github.com/nikshepsvn/bankai) | ultra-sparse adaptation of 1-bit LLMs via XOR patches. paper + code. `68 ★` |
+| [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion) | LACUNA — RL agent fusing binance futures + polymarket. `368 ★` |
+| [**viberank**](https://viberank.app) | public claude code usage leaderboard. `95 ★` |
+| [**homunculus**](https://humanplane.com/homunculus) | self-rewriting claude code plugin. `358 ★` |
+| [**tremor**](https://tremor.live) | real-time seismic monitor for prediction markets. `51 ★` |
+| [**openvenice**](https://github.com/nikshepsvn/openvenice) | oss backend-less venice AI frontend. `37 ★` |
+| [**nemo-ai**](https://github.com/nikshepsvn/nemo-ai) | local-first MCP memory server. temporal reasoning, contradiction handling. |
+| [**modelgrep**](https://modelgrep.com) | LLM search — filter by cost, throughput, context. |
 
-## selected work
+## writing
 
-- **[cross-market-state-fusion](https://github.com/humanplane/cross-market-state-fusion)** — RL agent fusing Binance futures + Polymarket (LACUNA)
-- **[homunculus](https://humanplane.com/homunculus)** — self-rewriting Claude Code plugin
-- **[bankai](https://github.com/nikshepsvn/bankai)** — ultra-sparse adaptation of 1-bit LLMs via XOR patches
-- **[viberank](https://viberank.app)** — public Claude Code usage leaderboard
-- **[tremor](https://tremor.live)** — real-time seismic monitor for prediction markets
+essays on coordination, agent infrastructure, speculation, AI ops — at [sculpt.fun](https://sculpt.fun).
 
 ## press
 
-Bloomberg · Business Insider · The AI Journal · PYMNTS · Shanghai NYU RITS. more at [nikshepsvn.com](https://nikshepsvn.com).
+bloomberg · business insider · the ai journal · mexc news · shanghai nyu rits · pymnts · financial post
+
+---
+
+## about
+
+applied AI × crypto. goal is to compound — keep building, keep learning, play bigger games over time.
+
+been in AI for a while. for realmplay productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet with nginx as a load balancer. this was before vLLM. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered.
+
+lately deeper in ML/RL — built LACUNA, an RL agent that trades polymarket 15-min crypto markets using binance order flow.
+
+same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
+
+earlier side quests: hackathon wins, 10M-view automated youtube channel, youtube thumbnail copilot with paying customers, LoRA marketplaces, lots of other side quests.
+
+---
 
 ## reach
 
-DMs on [X](https://x.com/nikshepsvn) are best, or nikshepsvn@gmail.com.
+DMs on [x](https://x.com/nikshepsvn) are best · nikshepsvn@gmail.com
