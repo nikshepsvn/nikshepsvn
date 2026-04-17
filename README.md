@@ -2,7 +2,7 @@
 
 applied AI × crypto. toronto. [nikshepsvn.com](https://nikshepsvn.com)
 
-built [humanplane](https://humanplane.com) — a prediction market trading terminal (kalshi grant recipient / builder fellow). long-term focus is reality infrastructure. thoughts and projects at [sculpt.fun](https://sculpt.fun).
+building at the edges of AI, crypto, and markets. recently shipped [humanplane](https://humanplane.com) — a prediction market trading terminal (kalshi grant recipient / builder fellow). thoughts and projects at [sculpt.fun](https://sculpt.fun).
 
 3+ years at instacart, ended as senior SWE / tech lead for enterprise ads — scaled ad measurement and experimentation, led 10+ engineers. before that: coinbase, seatgeek, pagerduty, deliverr. CS @ waterloo.
 
@@ -18,7 +18,7 @@ built [humanplane](https://humanplane.com) — a prediction market trading termi
 
 ## projects
 
-- [**bankai**](https://github.com/nikshepsvn/bankai) — ultra-sparse adaptation of 1-bit LLMs via XOR patches
+- [**bankai**](https://github.com/nikshepsvn/bankai) — original research: ultra-sparse adaptation of 1-bit LLMs via XOR patches
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion) — LACUNA, RL agent fusing binance + polymarket
 - [**viberank**](https://viberank.app) — public claude code usage leaderboard; forked by academic labs, integrated upstream into ccusage
 - [**homunculus**](https://humanplane.com/homunculus) — self-rewriting claude code plugin
@@ -35,13 +35,13 @@ bloomberg · business insider · the ai journal · pymnts · shanghai nyu rits �
 
 ---
 
-i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
+applied AI × crypto, trying to compound — across stacks, across cycles, across ideas.
 
-been in AI a while. for realmplay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet with nginx as load balancer — this was before vLLM. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered. more recently got into ML/RL — built LACUNA, an RL agent that trades polymarket 15-min crypto markets using binance order flow.
+**deep in AI.** for realmplay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet + nginx as load balancer — before vLLM existed. extended context 4K → 16K using SuperHOT right when RoPE scaling was discovered. more recently in ML/RL: built [LACUNA](https://github.com/humanplane/cross-market-state-fusion), an RL agent trading 15-min crypto markets on polymarket using binance order flow. and [bankai](https://github.com/nikshepsvn/bankai) — original research on 1-bit LLMs via XOR patches.
 
-same with crypto — mining ETH at $35 in 2016, did dev for a token that hit $50M+ marketcap, been around through every cycle since.
+**deep in crypto too.** mining ETH at $35 in 2016, dev'd a token to $50M+ mcap, been around every cycle since.
 
-earlier: hackathon wins, 10M-view automated youtube channel, youtube thumbnail copilot with paying customers, LoRA marketplaces, lots of other side quests.
+**also:** hackathon wins, a 10M-view automated youtube channel, youtube thumbnail copilot with paying customers, LoRA marketplaces, lots of side quests in between.
 
 ---
 
