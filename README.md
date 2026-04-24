@@ -1,10 +1,20 @@
 # nikshep saravanan
 
-applied AI × crypto. toronto. [nikshepsvn.com](https://nikshepsvn.com)
+_applied AI × crypto · toronto_
 
-building at the edges of AI, crypto, and markets. recently shipped [humanplane](https://humanplane.com) — a prediction market trading terminal (kalshi grant recipient / builder fellow). thoughts and projects at [sculpt.fun](https://sculpt.fun).
+i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
 
-3+ years at instacart, ended as senior SWE / tech lead for enterprise ads — scaled ad measurement and experimentation, led 10+ engineers. before that: coinbase, seatgeek, pagerduty, deliverr. CS @ waterloo.
+most recently shipped [humanplane](https://humanplane.com) (prediction market trading terminal — kalshi grant recipient / builder fellow, $250k+ volume) and [moltlaunch](https://moltlaunch.com) (fiverr for agents — $50M+ volume, $300K+ platform revenue). before that, sold two startups: [realmplay](https://realmplay.ai) (character AI running fine-tuned llama on consumer GPUs, sold to west mountain ai) and [soulbazaar](https://soulbazaar.ai) (autonomous social agents for web3, post-acq token hit $5M+ mcap). thoughts and projects at [sculpt.fun](https://sculpt.fun).
+
+3+ years at instacart — senior SWE / tech lead for enterprise ads. scaled ad measurement and experimentation, led 10+ engineers. before that: coinbase, seatgeek, pagerduty, deliverr. CS @ waterloo.
+
+---
+
+been in AI a while. for realmplay productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet + nginx as load balancer — this was before vLLM existed. extended context from 4K to 16K using SuperHOT right when RoPE scaling was discovered. lately in ML/RL and original research: [LACUNA](https://github.com/humanplane/cross-market-state-fusion) (RL agent trading 15-min polymarket crypto markets on binance flow), [bankai](https://github.com/nikshepsvn/bankai) (1-bit LLM adaptation via XOR patches), [veilstream](https://github.com/nikshepsvn/veilstream) (PASP — cryptographic streaming reversal that closes a false-attribution attack prior libraries silently have).
+
+deep in crypto too. mining ETH at $35 in 2016, dev'd a token to $50M+ mcap, been around every cycle since.
+
+also: hackathon wins, a 10M-view automated youtube channel, youtube thumbnail copilot with paying customers, LoRA marketplaces, and a long tail of side quests in between.
 
 ## ventures
 
@@ -19,7 +29,7 @@ building at the edges of AI, crypto, and markets. recently shipped [humanplane](
 ## projects
 
 - [**bankai**](https://github.com/nikshepsvn/bankai) — original research: ultra-sparse adaptation of 1-bit LLMs via XOR patches
-- [**veilstream**](https://github.com/nikshepsvn/veilstream) — streaming PII proxy for LLM chat with cryptographically-anchored reversal (PASP); closes a false-attribution attack every prior library silently has
+- [**veilstream**](https://github.com/nikshepsvn/veilstream) — streaming PII proxy for LLM chat with cryptographically-anchored reversal (PASP)
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion) — LACUNA, RL agent fusing binance + polymarket
 - [**viberank**](https://viberank.app) — public claude code usage leaderboard; forked by academic labs, integrated upstream into ccusage
 - [**homunculus**](https://humanplane.com/homunculus) — self-rewriting claude code plugin
@@ -29,7 +39,7 @@ building at the edges of AI, crypto, and markets. recently shipped [humanplane](
 
 ## writing
 
-essays on coordination, agent infrastructure, speculation, and AI ops at [sculpt.fun](https://sculpt.fun).
+essays on coordination, agent infrastructure, speculation, and AI ops — [sculpt.fun](https://sculpt.fun).
 
 ## press
 
@@ -37,14 +47,4 @@ bloomberg · business insider · the ai journal · pymnts · shanghai nyu rits �
 
 ---
 
-applied AI × crypto, trying to compound — across stacks, across cycles, across ideas.
-
-**deep in AI.** for realmplay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet + nginx as load balancer — before vLLM existed. extended context 4K → 16K using SuperHOT right when RoPE scaling was discovered. lately in ML/RL and original research: [LACUNA](https://github.com/humanplane/cross-market-state-fusion) (RL agent trading 15-min polymarket crypto markets on binance flow), [bankai](https://github.com/nikshepsvn/bankai) (1-bit LLM adaptation via XOR patches), [veilstream](https://github.com/nikshepsvn/veilstream) (PASP — cryptographic streaming reversal that closes a known attack surface).
-
-**deep in crypto too.** mining ETH at $35 in 2016, dev'd a token to $50M+ mcap, been around every cycle since.
-
-**also:** hackathon wins, a 10M-view automated youtube channel, youtube thumbnail copilot with paying customers, LoRA marketplaces, lots of side quests in between.
-
----
-
-nikshepsvn@gmail.com · [@nikshepsvn](https://x.com/nikshepsvn)
+[nikshepsvn.com](https://nikshepsvn.com) · nikshepsvn@gmail.com · [@nikshepsvn](https://x.com/nikshepsvn)
