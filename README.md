@@ -19,9 +19,11 @@ building at the edges of AI, crypto, and markets. recently shipped [humanplane](
 ## projects
 
 - [**bankai**](https://github.com/nikshepsvn/bankai) — original research: ultra-sparse adaptation of 1-bit LLMs via XOR patches
+- [**veilstream**](https://github.com/nikshepsvn/veilstream) — streaming PII proxy for LLM chat with cryptographically-anchored reversal (PASP); closes a false-attribution attack every prior library silently has
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion) — LACUNA, RL agent fusing binance + polymarket
 - [**viberank**](https://viberank.app) — public claude code usage leaderboard; forked by academic labs, integrated upstream into ccusage
 - [**homunculus**](https://humanplane.com/homunculus) — self-rewriting claude code plugin
+- [**humanplane/terminal**](https://github.com/humanplane/terminal) — open-source self-hosted polymarket terminal; live book, leaderboard, self-custodial trading
 - [**tremor**](https://tremor.live) — real-time seismic monitor for prediction markets
 - [**openvenice**](https://github.com/nikshepsvn/openvenice) — backend-less venice AI frontend
 
@@ -37,7 +39,7 @@ bloomberg · business insider · the ai journal · pymnts · shanghai nyu rits �
 
 applied AI × crypto, trying to compound — across stacks, across cycles, across ideas.
 
-**deep in AI.** for realmplay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet + nginx as load balancer — before vLLM existed. extended context 4K → 16K using SuperHOT right when RoPE scaling was discovered. more recently in ML/RL: built [LACUNA](https://github.com/humanplane/cross-market-state-fusion), an RL agent trading 15-min crypto markets on polymarket using binance order flow. and [bankai](https://github.com/nikshepsvn/bankai) — original research on 1-bit LLMs via XOR patches.
+**deep in AI.** for realmplay i productionized a fine-tuned llama on rented 3090s via vast.ai, built a serving API on exllama, used a DO droplet + nginx as load balancer — before vLLM existed. extended context 4K → 16K using SuperHOT right when RoPE scaling was discovered. lately in ML/RL and original research: [LACUNA](https://github.com/humanplane/cross-market-state-fusion) (RL agent trading 15-min polymarket crypto markets on binance flow), [bankai](https://github.com/nikshepsvn/bankai) (1-bit LLM adaptation via XOR patches), [veilstream](https://github.com/nikshepsvn/veilstream) (PASP — cryptographic streaming reversal that closes a known attack surface).
 
 **deep in crypto too.** mining ETH at $35 in 2016, dev'd a token to $50M+ mcap, been around every cycle since.
 
