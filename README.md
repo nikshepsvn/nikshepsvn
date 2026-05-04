@@ -1,8 +1,8 @@
 # nikshep saravanan
 
-_applied AI × crypto · toronto_
+_toronto · building at the edges of AI, crypto, and markets_
 
-i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
+i ship opinionated v1s into emerging categories before they have answers. infinitely curious, delusional optimist — would rather be wrong fast than right late.
 
 now building [phonegoblin](https://phonegoblin.com) — run a content factory from your desk. mount any android, it becomes a node in your fleet. real device, real taps, indistinguishable from a human's. one phone or a hundred. no emulators, no cloud phones, no modded APKs.
 
