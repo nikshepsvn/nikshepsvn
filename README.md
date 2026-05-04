@@ -4,7 +4,9 @@ _applied AI × crypto · toronto_
 
 i work at the intersection of applied AI and crypto. goal is to compound — keep building, keep learning, play bigger games over time.
 
-most recently shipped [humanplane](https://humanplane.com) (prediction market trading terminal — kalshi grant recipient / builder fellow, $250k+ volume) and [moltlaunch](https://moltlaunch.com) (fiverr for agents — $50M+ volume, $300K+ platform revenue). before that, sold two startups: [realmplay](https://realmplay.ai) (character AI running fine-tuned llama on consumer GPUs, sold to west mountain ai) and [soulbazaar](https://soulbazaar.ai) (autonomous social agents for web3, post-acq token hit $5M+ mcap). thoughts and projects at [sculpt.fun](https://sculpt.fun).
+now building [phonegoblin](https://phonegoblin.com) — run a content factory from your desk. mount any android, it becomes a node in your fleet. real device, real taps, indistinguishable from a human's. one phone or a hundred. no emulators, no cloud phones, no modded APKs.
+
+recently shipped [humanplane](https://humanplane.com) (chart room for prediction markets — kalshi grant recipient / builder fellow, $250k+ volume) and [moltlaunch](https://moltlaunch.com) (fiverr for agents — $50M+ volume, $300K+ platform revenue). before that, sold two startups: realmplay (character AI on fine-tuned llama on consumer GPUs, sold to west mountain ai) and soulbazaar (autonomous social agents for web3, post-acq token hit $5M+ mcap). thoughts and projects at [sculpt.fun](https://sculpt.fun).
 
 3+ years at instacart — senior SWE / tech lead for enterprise ads. scaled ad measurement and experimentation, led 10+ engineers. before that: coinbase, seatgeek, pagerduty, deliverr. CS @ waterloo.
 
@@ -18,16 +20,17 @@ also: hackathon wins, a 10M-view automated youtube channel, youtube thumbnail co
 
 ## ventures
 
-- [**humanplane**](https://humanplane.com) — prediction market chart room. polymarket + kalshi, whale flows, AI research. $250k+ volume.
+- [**phonegoblin**](https://phonegoblin.com) — _building._ BYOD android content factory. real phones, real taps, no root. one phone or a hundred.
+- [**humanplane**](https://humanplane.com) — chart room for prediction markets. polymarket + kalshi, whale flows, AI research. $250k+ volume.
 - [**moltlaunch**](https://moltlaunch.com) — fiverr for agents. work protocol with custom escrow, job matching, payments. $50M+ volume, $300k+ platform revenue.
-- **realmplay** — character AI running fine-tuned llama on consumer GPUs. sold to west mountain ai.
-- **soulbazaar** — autonomous social agents for web3. acquired pre-launch, post-acq token hit $5M+ mcap.
-- **sniffchain** — token & wallet research terminal, multi-agent system on X. ~5k users, fully organic.
-- [**clip.fun**](https://clip.fun) — market for imagination. 2k+ waitlist, novel tokenomics.
-- [**dreamloom**](https://dreamloom.com) — near real-time interactive video, AI-native worldbuilding.
+- **realmplay** — _exited._ character AI on fine-tuned llama, consumer GPUs. sold to west mountain ai.
+- **soulbazaar** — _acquired pre-launch._ autonomous social agents for web3. post-acq token hit $5M+ mcap.
 
 ## projects
 
+- **sniffchain** — token & wallet research terminal, multi-agent system on X. ~5k users, fully organic
+- [**clip.fun**](https://clip.fun) — market for imagination. 2k+ waitlist, novel tokenomics
+- [**dreamloom**](https://dreamloom.com) — near real-time interactive video, AI-native worldbuilding
 - [**bankai**](https://github.com/nikshepsvn/bankai) — original research: ultra-sparse adaptation of 1-bit LLMs via XOR patches
 - [**veilstream**](https://github.com/nikshepsvn/veilstream) — streaming PII proxy for LLM chat with cryptographically-anchored reversal (PASP)
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion) — LACUNA, RL agent fusing binance + polymarket
@@ -43,7 +46,7 @@ essays on coordination, agent infrastructure, speculation, and AI ops — [sculp
 
 ## press
 
-bloomberg · business insider · the ai journal · pymnts · shanghai nyu rits · mexc · financial post
+bloomberg · business insider · the ai journal · pymnts · shanghai nyu rits
 
 ---
 
