@@ -37,6 +37,10 @@ _BYOK · Metadata only · Hard budgets_
 
 Previously: Kalshi Builder Fellow; Senior SWE / Tech Lead at Instacart; internships at Coinbase, SeatGeek, and PagerDuty. BCS, Computer Science, University of Waterloo.
 
+## Story
+
+I came up through data infrastructure and advertising systems, then started building independently at the intersection of AI, crypto, and markets. Before the current AI wave, RealmPlay ran a fine-tuned LLM on consumer GPUs; I have been around crypto since 2016. Now I build products and research systems for the new coordination layer.
+
 Writing on coordination, agent infrastructure, speculation, and AI operations at [sculpt.fun](https://sculpt.fun).
 
 ---
