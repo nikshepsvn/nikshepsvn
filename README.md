@@ -6,13 +6,9 @@ Building at the edges of AI, crypto, and markets. I ship opinionated v1s into em
 
 ## Now
 
-### [Meterline](https://meterline.ai)
+### Stealth
 
-AI is your fastest-growing bill. Meter it.
-
-Meterline is an AI spend platform and drop-in gateway for OpenAI and Anthropic. It attributes every token, enforces hard budgets, and helps teams verify that a cheaper model is safe on real traffic before they switch.
-
-_BYOK · Metadata only · Hard budgets_
+Building a new consumer product.
 
 ## Ventures
 
