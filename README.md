@@ -15,7 +15,7 @@ I explore ideas by building them, at the edges of AI, crypto, and markets. Engin
 
 ### Products
 
-- [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _400K+ Google impressions in three months; its API feeds ZenPick, pix-data, and pi-better-models_
+- [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _400K+ Google impressions in three months; cited by claude-mem, and its API feeds ZenPick, pix-data, and pi-better-models_
 - [**viberank**](https://viberank.app): the public leaderboard for AI coding usage across Claude Code, Codex, and Gemini CLI. _1,292 developers ranked across 26T tokens; listed in [ccusage's related projects](https://ccusage.com/guide/related-projects)_
 
 ### Research and open source
@@ -26,6 +26,8 @@ I explore ideas by building them, at the edges of AI, crypto, and markets. Engin
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion): an online RL agent fusing Binance order flow with Polymarket books, trained on Apple Silicon.
 - [**terminal**](https://github.com/humanplane/terminal): a self-hosted Polymarket terminal with live order books and wallet-signed orders.
 - [**MC-Bench**](https://github.com/mc-bench/orchestrator): built the orchestrator behind Minecraft-based LLM evaluation.
+
+Upstream: fixes merged into Nous Research's [Hermes Agent](https://github.com/NousResearch/hermes-agent/commit/d82a69b).
 
 ### Writing
 
