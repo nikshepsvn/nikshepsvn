@@ -16,13 +16,13 @@ I explore ideas by building them, at the edges of AI, crypto, and markets. Engin
 ### Products
 
 - [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _400K+ Google impressions in three months; its API feeds ZenPick, pix-data, and pi-better-models_
-- [**viberank**](https://viberank.app): the public leaderboard for AI coding usage across Claude Code, Codex, and Gemini CLI. _1,238 developers ranked across 18T tokens; listed in [ccusage's related projects](https://ccusage.com/guide/related-projects)_
+- [**viberank**](https://viberank.app): the public leaderboard for AI coding usage across Claude Code, Codex, and Gemini CLI. _1,292 developers ranked across 26T tokens; listed in [ccusage's related projects](https://ccusage.com/guide/related-projects)_
 
 ### Research and open source
 
 - [**homunculus**](https://github.com/humanplane/homunculus): a Claude Code plugin that turns your prompts and tool use into reusable instincts and skills. Inspired the learning system in everything-claude-code.
-- [**bankai**](https://github.com/nikshepsvn/bankai): adapts frozen 1-bit LLMs with XOR patches measured in bytes. Paper, MLX, and CUDA. Inspired [Miyagi](https://github.com/smanaton/miyagi).
-- [**thimble**](https://github.com/nikshepsvn/thimble): structured tool calling in a 48M-parameter model, with grammar-constrained decoding.
+- [**bankai**](https://github.com/nikshepsvn/bankai): adapts frozen 1-bit LLMs with XOR patches measured in bytes. Paper, MLX, and CUDA. Re-implemented in [Neagari](https://github.com/sbenjam1n/neagari); inspired [Miyagi](https://github.com/smanaton/miyagi).
+- [**thimble**](https://github.com/nikshepsvn/thimble): structured tool calling in a 48M-parameter model, with grammar-constrained decoding. Beats FunctionGemma 270M on Mobile Actions.
 - [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion): an online RL agent fusing Binance order flow with Polymarket books, trained on Apple Silicon.
 - [**terminal**](https://github.com/humanplane/terminal): a self-hosted Polymarket terminal with live order books and wallet-signed orders.
 - [**MC-Bench**](https://github.com/mc-bench/orchestrator): built the orchestrator behind Minecraft-based LLM evaluation.
