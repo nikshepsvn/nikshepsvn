@@ -1,6 +1,6 @@
 # Nikshep Saravanan
 
-I explore ideas by building them, at the edges of AI, crypto, and markets. Engineer in Toronto.
+I explore ideas by building them, at the edges of AI, crypto, and markets. Based in Toronto.
 
 **Now:** building a consumer product, in stealth.
 
