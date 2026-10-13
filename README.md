@@ -1,44 +1,36 @@
 # Nikshep Saravanan
 
-_Toronto, CA · Exploration engineer_
+I explore ideas by building them, at the edges of AI, crypto, and markets. Engineer in Toronto.
 
-Building at the edges of AI, crypto, and markets. I ship opinionated v1s into emerging categories before they have answers.
+**Now:** building a consumer product, in stealth.
 
-## Now
+[nikshepsvn.com](https://nikshepsvn.com) · [X](https://x.com/nikshepsvn) · [LinkedIn](https://linkedin.com/in/nikshepsvn) · nikshepsvn@gmail.com
 
-### Stealth
+### Ventures
 
-Building a new consumer product.
+- [**HumanPlane**](https://humanplane.com): the chart room for prediction markets. Polymarket and Kalshi in one place, with whale flows, AI research, and signals that move before the news. _$250K+ platform volume · Kalshi grant recipient_
+- [**Moltlaunch**](https://moltlaunch.com): a work protocol for agents, with identity, job matching, and escrow payments on Base. _$50M+ platform volume · $300K+ platform revenue_
+- **RealmPlay**: AI storytelling on a fine-tuned LLM served from consumer GPUs, with 16K context at under half the price of GPT-3.5 Turbo. Launched solo, bootstrapped. _Acquired by West Mountain AI_
+- **SoulBazaar**: autonomous AI influencers for crypto communities. _Acquired before launch_
 
-## Ventures
+### Products
 
-- [**HumanPlane**](https://humanplane.com) — The chart room for prediction markets: Polymarket and Kalshi in one place, with whale flows, AI research, and signals that move before the news. _Kalshi grant recipient · $250K+ platform volume_
-- [**Moltlaunch**](https://moltlaunch.com) — A work protocol for agents with custom escrow, job matching, and payments. _$50M+ platform volume · $300K+ platform revenue_
-- **RealmPlay** — AI storytelling platform powered by a fine-tuned LLM on consumer-grade GPUs. _Exited to West Mountain AI._
-- **SoulBazaar** — Autonomous AI influencer platform for crypto tokens and communities. _Acquired pre-launch._
+- [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _400K+ Google impressions in three months; its API feeds ZenPick, pix-data, and pi-better-models_
+- [**viberank**](https://viberank.app): the public leaderboard for AI coding usage across Claude Code, Codex, and Gemini CLI. _1,238 developers ranked across 18T tokens; listed in [ccusage's related projects](https://ccusage.com/guide/related-projects)_
 
-## Used in the Wild
+### Research and open source
 
-- [**Modelgrep**](https://modelgrep.com) — Search and compare LLM providers by cost, throughput, quantization, and context.
-- [**Viberank**](https://viberank.app) — Public leaderboard for Claude Code usage, integrated upstream into `ccusage` and adopted by academic labs.
+- [**homunculus**](https://github.com/humanplane/homunculus): a Claude Code plugin that turns your prompts and tool use into reusable instincts and skills. Inspired the learning system in everything-claude-code.
+- [**bankai**](https://github.com/nikshepsvn/bankai): adapts frozen 1-bit LLMs with XOR patches measured in bytes. Paper, MLX, and CUDA. Inspired [Miyagi](https://github.com/smanaton/miyagi).
+- [**thimble**](https://github.com/nikshepsvn/thimble): structured tool calling in a 48M-parameter model, with grammar-constrained decoding.
+- [**cross-market-state-fusion**](https://github.com/humanplane/cross-market-state-fusion): an online RL agent fusing Binance order flow with Polymarket books, trained on Apple Silicon.
+- [**terminal**](https://github.com/humanplane/terminal): a self-hosted Polymarket terminal with live order books and wallet-signed orders.
+- [**MC-Bench**](https://github.com/mc-bench/orchestrator): built the orchestrator behind Minecraft-based LLM evaluation.
 
-## Selected Projects
+### Writing
 
-- [**bankai**](https://github.com/nikshepsvn/bankai) — Ultra-sparse adaptation of 1-bit LLMs via XOR patches. Paper and code.
-- [**LACUNA**](https://github.com/humanplane/cross-market-state-fusion) — RL agent exploiting information lag between Binance futures and Polymarket.
-- [**veilstream**](https://github.com/nikshepsvn/veilstream) — Streaming PII proxy for LLM chat with cryptographically anchored reversal.
-- [**terminal**](https://github.com/humanplane/terminal) — Open-source, self-hosted Polymarket terminal.
+Long-form research on X: 31 articles and 1.2M views, from token deep dives to where AI is heading. Essays live at [nikshepsvn.com](https://nikshepsvn.com/#writing).
 
-## Background
+### Background
 
-Previously: Kalshi Builder Fellow; Senior SWE / Tech Lead at Instacart; internships at Coinbase, SeatGeek, and PagerDuty. BCS, Computer Science, University of Waterloo.
-
-## Story
-
-I came up through data infrastructure and advertising systems, then started building independently at the intersection of AI, crypto, and markets. Before the current AI wave, RealmPlay ran a fine-tuned LLM on consumer GPUs; I have been around crypto since 2016. Now I build products and research systems for the new coordination layer.
-
-Writing on coordination, agent infrastructure, speculation, and AI operations at [sculpt.fun](https://sculpt.fun).
-
----
-
-[nikshepsvn.com](https://nikshepsvn.com) · [@nikshepsvn](https://x.com/nikshepsvn) · nikshepsvn@gmail.com
+Kalshi Builder Fellow (2026). Senior engineer and tech lead on Enterprise Ads at Instacart (2021–2024). Internships at Coinbase, Deliverr, SeatGeek, PagerDuty, and Magmic. Computer science at the University of Waterloo.
