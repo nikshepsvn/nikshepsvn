@@ -15,7 +15,7 @@ I explore ideas by building them, at the edges of AI, crypto, and markets. Engin
 
 ### Products
 
-- [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _400K+ Google impressions in three months; cited by claude-mem, and its API feeds ZenPick, pix-data, and pi-better-models_
+- [**modelgrep**](https://modelgrep.com): compare 300+ LLMs by intelligence, speed, price, and capability, with a free public API. _600K+ Google impressions since launch; cited by claude-mem, and its API feeds ZenPick, pix-data, and pi-better-models_
 - [**viberank**](https://viberank.app): the public leaderboard for AI coding usage across Claude Code, Codex, and Gemini CLI. _1,292 developers ranked across 26T tokens; listed in [ccusage's related projects](https://ccusage.com/guide/related-projects)_
 
 ### Research and open source
